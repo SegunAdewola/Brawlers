@@ -66,7 +66,7 @@ The game is implemented using an object-oriented design to ensure modularity and
 ---
 
 ## Dependencies
-- **Python 3.x**
+- **Python 3**
 - **Pygame Library**:
   - Install via pip: `pip install pygame`
 
@@ -74,7 +74,7 @@ The game is implemented using an object-oriented design to ensure modularity and
 
 ## Setup and Execution
 1. Clone or download the repository to your local machine.
-2. Ensure Python 3.x and Pygame are installed.
+2. Ensure Python 3 and Pygame are installed.
 3. Run the game:
    ```bash
    python main.py
