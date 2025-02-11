@@ -1,2 +1,2 @@
 # Brawlers
-Brawlers is a real-time 2D fighting game developed using Python and Pygame.
+Brawlers is a real-time 2D fighting game developed using Python and Pygame. Developed by Oluwasegun Adewola and Ifeoluwa Areogun. Check out our [Trailer](https://www.youtube.com/watch?v=Z0DYOHhNvm0).
